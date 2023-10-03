@@ -1,1 +1,4 @@
-hello.. you have reached amv
+---
+layout: post
+title: Blogging Like a Pro
+---
