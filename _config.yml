@@ -20,7 +20,7 @@ repository               : "anismhd/anismhd.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.jpg"
   name             : "Anis M. Vengasseri"
   pronouns         : # example: "she/her"
   bio              : "A short bio about yourself goes here. Replace this with a sentence or two."
