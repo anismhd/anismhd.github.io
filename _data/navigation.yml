@@ -1,0 +1,10 @@
+# Navigation links shown in the header of the website.
+main:
+  - title: "About"
+    url: /
+
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "Repositories"
+    url: /repositories/
