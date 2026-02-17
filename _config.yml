@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Anis M. Vengasseri — Personal Website"
+title                    : "Anis M. Vengasseri"
 title_separator          : "-"
 name                     : &name "Anis M. Vengasseri"
 description              : &description "Personal website & project portfolio"
@@ -20,7 +20,7 @@ repository               : "anismhd/anismhd.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Anis M. Vengasseri"
   pronouns         : # example: "she/her"
   bio              : "A short bio about yourself goes here. Replace this with a sentence or two."
